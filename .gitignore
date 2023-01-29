@@ -1,0 +1,8 @@
+.idea
+/bootstrap/.cache/
+/bootstrap/dist/
+/bootstrap/node_modules/
+.DS_Store
+/docker_laravel/www/laravel/
+*vendor
+.env
